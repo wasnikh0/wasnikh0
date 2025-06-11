@@ -30,13 +30,9 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 |-----------------------------|------------------------|----------------------|
 | LLMs + KGs for personalization | Airflow, MLflow, Docker | CNNs, LSTMs, Transformers |
 
-| 📊 **Predictive Analytics** | 🧮 **Graph Neural Networks** | 🗃️ **Vector Databases** |
+| 📊 **Predictive Analytics** | ☁️ **Cloud Platforms** | 🗃️ **Vector Databases** |
 |----------------------------|-----------------------------|--------------------------|
-| A/B Testing, Scoring Models | Traffic Flow & Pattern Mining | FAISS, LangChain, Semantic Search |
-
-| ☁️ **Cloud Platforms** |
-|------------------------|
-| AWS (S3, EC2, SageMaker), GCP, Azure |  
+| A/B Testing, Scoring Models | AWS (S3, EC2, SageMaker), GCP, Azure | FAISS, LangChain, Semantic Search |
 
 </div>
 
