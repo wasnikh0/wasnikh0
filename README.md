@@ -34,6 +34,10 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 |----------------------------|-----------------------------|--------------------------|
 | A/B Testing, Scoring Models | Traffic Flow & Pattern Mining | FAISS, LangChain, Semantic Search |
 
+| ☁️ **Cloud Platforms** |
+|------------------------|
+| AWS (S3, EC2, SageMaker), GCP, Azure |  
+
 </div>
 
 ## 📌 Featured Projects
