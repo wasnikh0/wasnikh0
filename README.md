@@ -21,6 +21,20 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 
 ---
 
+## 🤖 AI/ML Specialties
+
+<div align="center">
+
+| 🔍 **Context-Aware Systems** | 📦 **MLOps Pipelines** | 🧠 **Deep Learning** |
+|-----------------------------|------------------------|----------------------|
+| LLMs + KGs for personalization | Airflow, MLflow, Docker | CNNs, LSTMs, Transformers |
+
+| 📊 **Predictive Analytics** | 🧮 **Graph Neural Networks** | 🗃️ **Vector Databases** |
+|----------------------------|-----------------------------|--------------------------|
+| A/B Testing, Scoring Models | Traffic Flow & Pattern Mining | FAISS, LangChain, Semantic Search |
+
+</div>
+
 ## 📌 Featured Projects
 
 ### 🔐 AI-Powered Risk Predictor
