@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/wasnikh0/portfolio/blob/main/assets/banner.png" alt="Harsh Wasnik | Machine Learning Specialist" width="100%" />
+  <img src="https://img.shields.io/badge/Harsh%20Wasnik-Machine%20Learning%20Engineer-blue?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
 
 <p align="center">
   <a href="mailto:wasnikh0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -37,6 +38,13 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 
 ## 📌 Featured Projects
 
+### 🛡️ Network Security MLOps Pipeline  
+- Built an end-to-end MLOps pipeline for real-time phishing detection using a network security dataset  
+- Modular architecture with YAML configs, CI/CD via GitHub Actions, and MLflow experiment tracking via DagsHub  
+- 🐳 Dockerized and deployed the system to AWS EC2 using ECR for scalable production use  
+- 🧪 Trained and compared models: Random Forest, AdaBoost, Gradient Boosting, Logistic Regression, Decision Trees  
+- 🔗 [GitHub](https://lnkd.in/gKHBaKpz) | [DagsHub](https://lnkd.in/gZ-5ZPsQ) | [Live App](https://lnkd.in/dPESin4n)
+
 ### 🔐 AI-Powered Risk Predictor
 - HIPAA-compliant system that generates patient-specific treatment recommendations using EHR, clinical notes, and medication data
 - Built with Databricks Spark, LLMs, and Knowledge Graphs
@@ -50,6 +58,7 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 ### 🎯 Student Score Predictor
 - Predicted standardized test scores (math, reading, writing) with **>90% accuracy**
 - Inference latency <1 second per profile across 100+ test cases
+- 🔗[Live App](https://student-performance-ml.streamlit.app/)
 
 ### 🌐 GNN-based Traffic Optimization
 - Deployed Graph Neural Networks to optimize telecom traffic from major clients like Amazon/Facebook
@@ -64,8 +73,8 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 **Tools:** Apache Airflow, MLflow, Docker, Streamlit, HuggingFace, LangChain  
 **Data:** PySpark, PostgreSQL, MongoDB, Snowflake, Redshift  
 **Cloud:** AWS (S3, SageMaker, Lambda), GCP, Azure  
-**Viz:** Power BI, Tableau, Matplotlib, Plotly  
-**Certs:** Microsoft Generative AI, UIUC Analytics, Tata Excellence Award
+**Viz:** Power BI, Tableau, Matplotlib, Plotly, Seaborn  
+**Certs:** Microsoft Generative AI, UIUC Analytics, Tata Excellence Award, Student Award, Distinguish Scholar
 
 ---
 
