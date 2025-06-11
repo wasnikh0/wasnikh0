@@ -74,7 +74,7 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 **Data:** PySpark, PostgreSQL, MongoDB, Snowflake, Redshift  
 **Cloud:** AWS (S3, SageMaker, Lambda), GCP, Azure  
 **Viz:** Power BI, Tableau, Matplotlib, Plotly, Seaborn  
-**Certs:** Microsoft Generative AI, UIUC Analytics, Tata Excellence Award, Student Award, Distinguish Scholar
+**Certs:** Microsoft Generative AI, UIUC Analytics, Tata Excellence Award, Student Award, Distinguished Scholar
 
 ---
 
@@ -83,7 +83,6 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 - 💌 Gmail: [wasnikh0@gmail.com](mailto:wasnikh0@gmail.com)
 - 🌐 Portfolio: [https://www.datascienceportfol.io/wasnikh0](https://www.datascienceportfol.io/wasnikh0)
 - 🔗 LinkedIn: [linkedin.com/in/harsh-wasnik](https://linkedin.com/in/harsh-wasnik)
-- 💻 GitHub: [github.com/wasnikh0](https://github.com/wasnikh0)
 
 ---
 
