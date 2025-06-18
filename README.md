@@ -43,7 +43,7 @@ Hi! I'm **Harsh Wasnik**, a Machine Learning Engineer with experience in buildin
 - Modular architecture with YAML configs, CI/CD via GitHub Actions, and MLflow experiment tracking via DagsHub  
 - 🐳 Dockerized and deployed the system to AWS EC2 using ECR for scalable production use  
 - 🧪 Trained and compared models: Random Forest, AdaBoost, Gradient Boosting, Logistic Regression, Decision Trees  
-- 🔗 [GitHub](https://lnkd.in/gKHBaKpz) | [DagsHub](https://lnkd.in/gZ-5ZPsQ) | [Live App](https://lnkd.in/dPESin4n)
+- 🔗 [GitHub]([https://lnkd.in/gKHBaKpz](https://github.com/wasnikh0/NetworkSecurity)) | [DagsHub]([https://lnkd.in/gZ-5ZPsQ](https://dagshub.com/wasnikh0/NetworkSecurity)) | [Live App]([https://lnkd.in/dPESin4n](https://networksecurity-phishing.streamlit.app/))
 
 ### 🔐 AI-Powered Risk Predictor
 - HIPAA-compliant system that generates patient-specific treatment recommendations using EHR, clinical notes, and medication data
